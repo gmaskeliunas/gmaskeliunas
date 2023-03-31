@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gediminas Maskeliūnas</h1>
-<h3 align="center">A front-end developer from Lithuania (Japan)</h3>
+<h3 align="center">A front-end developer from Lithuania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmaskeliunas&label=Profile%20views&color=0e75b6&style=flat" alt="gmaskeliunas" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [cooming soon...](cooming soon...)
+- 👨‍💻 All of my projects are available at [cooming soon...]
 
 - 📫 How to reach me **gediminas.maskeliunas[at]gmail.com**
 
