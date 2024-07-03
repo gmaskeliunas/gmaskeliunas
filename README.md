@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Kanji flashcard app](https://gmaskeliunas.github.io/japanese-flashcards/)
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **gediminas.maskeliunas[at]gmail.com**
 
