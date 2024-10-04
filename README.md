@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmaskeliunas" alt="gmaskeliunas" /></a> </p> -->
 
-- 🔭 I’m currently working on [Kanji flashcard app](https://gmaskeliunas.github.io/japanese-flashcards/)
+- 🔭 I’m currently working on my personal website.
 
 - 🌱 I’m currently learning **Go**
 
